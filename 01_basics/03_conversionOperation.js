@@ -7,9 +7,10 @@ let score = 33
 
 let valInString = "33abs"
 let valInNumber = Number(valInString)
-// console.log(valInNumber);
-// console.log(typeof valInNumber);
+console.log(valInNumber);
+console.log(typeof valInNumber);
 
+// covert into Number
 // "33" => 33
 // "33abc" => NaN -> Not a Number
 // true => 1, false => 0
